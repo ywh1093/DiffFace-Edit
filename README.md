@@ -1,2 +1,2 @@
-# DiffFace-Edit
-The dataset from the paper "DiffFace-Edit: A Diffusion-Based Facial Dataset for Forgery-Semantic Driven Deepfake Detection Analysis"
+# DiffFace-Edit Dataset
+We are in the process of organizing the dataset and will make it available in the near future.
